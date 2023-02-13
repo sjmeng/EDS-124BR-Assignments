@@ -1,3 +1,6 @@
+## Week 5- Write and Explain A Program- Conditional Loops (Soccer Ball)
+https://youtu.be/3AhzBNr0HRk
+
 ## Week 4- Write and Explain A Program- Variables (Triangle, Square, and Pentagon)
 https://youtu.be/sPBRbY-FV8M
 
