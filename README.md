@@ -1,4 +1,4 @@
-## Week 6- Write and Explain A Program- Bullseye Game
+## Week 6- Write and Explain A Program- If-Else (Bullseye Game)
 https://youtu.be/i-gnbhOg-60
 
 ## Week 5- Write and Explain A Program- Conditional Loops (Soccer Ball)
