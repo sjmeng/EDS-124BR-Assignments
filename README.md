@@ -1,3 +1,6 @@
+## Week 7- Write and Explain A Program- Nested If-Else (Penguin)
+https://youtu.be/Or-DLHANSDk
+
 ## Week 6- Write and Explain A Program- If-Else (Bullseye Game)
 https://youtu.be/i-gnbhOg-60
 
