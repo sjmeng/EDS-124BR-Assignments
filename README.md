@@ -1,3 +1,6 @@
+## Week 8- Write and Explain A Program- Compound Conditionals (Hidden Treasure)
+https://youtu.be/RNRAj3H_hMQ
+
 ## Week 7- Write and Explain A Program- Nested If-Else (Penguin)
 https://youtu.be/Or-DLHANSDk
 
