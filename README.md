@@ -1,3 +1,6 @@
+## Week 9- Write and Explain A Program- Abstractions (Draw a picture)
+https://youtu.be/1GYdFWBK98c
+
 ## Week 8- Write and Explain A Program- Compound Conditionals (Hidden Treasure)
 https://youtu.be/RNRAj3H_hMQ
 
